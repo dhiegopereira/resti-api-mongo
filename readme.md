@@ -1,24 +1,8 @@
-## Code Review
+## REST API with MongoDB
 
-### O que avaliar no code review?
-> A avaliação do código é feita de forma a garantir que o código seja o mais limpo possível, sem erros e sem bugs.
+### O que é o mongodb?
+> O MongoDB é um banco de dados não relacional, com foco em velocidade e escalabilidade.
 
-- Organização dos arquivos
-- Indentação do código
-- Comentários
-- Debug do código
-- Nome das variáveis
-- Nome das funções
-- Implementação da funções
-- Chamada das funções
-- Código legível
-- Encapsulamento de funções
-- Código repetitivo
+### O que é API REST?
+> API REST é uma interface de acesso a dados que permite a interação com o usuário.
 
-### Como avaliar o code review?
-> O code review deve ser avaliado com comentários contendo: 
-- Sugestões de melhorias
-- Refatorações e/ou correções de funções
-- Identificar bugs e/ou erros de sintaxe encontrados
-- Tratar lógica aplicada ao código
-- Tratamento de exceções try/catch
